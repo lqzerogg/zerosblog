@@ -1,0 +1,1 @@
+exports.logout = function(req, res) {};
